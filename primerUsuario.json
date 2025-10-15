@@ -1,0 +1,7 @@
+{
+  "firstName": "Administrador",
+  "lastName": "App",
+  "email": "catalogoventasfama.app@gmail.com",
+  "passwordHash": "$2b$10$EjemploDeHashDeContraseña",
+  "isAdmin": true
+}

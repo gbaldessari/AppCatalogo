@@ -1,0 +1,6 @@
+[submodule "AppCatalogo-Backend"]
+	path = AppCatalogo-Backend
+	url = https://github.com/gbaldessari/AppCatalogo-Backend
+[submodule "AppCatalogo-Frontend"]
+	path = AppCatalogo-Frontend
+	url = https://github.com/gbaldessari/AppCatalogo-Frontend
